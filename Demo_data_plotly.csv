@@ -1,0 +1,6 @@
+﻿Strategic Plan,Cost Cap level,Hazard Risk level,Short term efficiency,Mid term efficiency,Long term efficiency,Contingency,Flexibility,Advantages,Disadvantages,Description
+Alpha,6,7,7,7,7,6,8,"['Well balanced', 'Relatively high flexibility', 'Lowest cost']","['Suboptimal efficiency all stages', 'Relatively low contingency', 'Little to no stage progress']",Balanced - Version 1
+Beta,7,8,10,8,8,6,7,"['Best short term solution', 'Strong T2 onwards', 'Decent adaptability']","['Higher cost than alpha', 'Relatively low contingency', 'High hazard risk']",Moderately rushed
+Charlie,6,7,7,9,5,6,8,"['Biggest delta in T2', 'Relatively high flexibility', 'Lowest cost']","['Lowest long term performance', 'Relatively low contingency', 'Suboptimal T1 & Final']",Balanced - Version 2
+Delta,8,9,9,10,10,3,2,"['Best efficiency across the board', 'Strongest start', 'Optimal T2 onwards']","['Inflexible', 'No contingencies', 'Highest hazard risk & high cost']",Extreme performance
+Epsilon,9,5,6,9,10,9,1,"['Highly efficient T2 onwards', 'Low hazard risks', 'Self-sustained contingency']","['Biggest cost level', 'Inefficient initial stage', 'Almost inexistent adaptability']",Wildcard plan
