@@ -1,5 +1,5 @@
 <a href = "https://github.com/Alex-Caian/" target="_blank">
-    <img src = "https://foundations.projectpythia.org/_images/GitHub-logo.png?raw=True" width=50 height=50 align="right"/>
+    <img src = "https://foundations.projectpythia.org/_images/GitHub-logo.png?raw=True" width=70 height=42 align="right"/>
 </a>
 <a href = "https://www.linkedin.com/in/alex-caian-1519b4223/" target="_blank">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png?raw=True" width="42" height="42" align="right"/>
