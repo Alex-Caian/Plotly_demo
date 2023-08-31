@@ -9,7 +9,6 @@
 </a>
 
 # Your first Plotly animation
-### Rep V 1.0.2
 
 This public repository is dedicated to my "Your first Plotly animation" blogpost and contains all the data, code and images used throughout the post. However - this is only the beginning!
 
