@@ -5,7 +5,7 @@
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png?raw=True" width="42" height="42" align="right"/>
 </a>
 <a href = "https://medium.com/@alexcaian" target="_blank">
-    <img src = "https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png?raw=True" align="right"/>
+    <img src = "https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png?raw=True" width = 70 height=70 align="right"/>
 </a>
 
 # Your first Plotly animation
