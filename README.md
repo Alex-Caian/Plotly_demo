@@ -1,5 +1,5 @@
 <a href = "https://github.com/Alex-Caian/" target="_blank">
-    <img src = "https://foundations.projectpythia.org/_images/GitHub-logo.png?raw=True" align="right"/>
+    <img src = "https://foundations.projectpythia.org/_images/GitHub-logo.png?raw=True" width=42 height=42 align="right"/>
 </a>
 <a href = "https://www.linkedin.com/in/alex-caian-1519b4223/" target="_blank">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png?raw=True" width="42" height="42" align="right"/>
@@ -17,9 +17,9 @@ I'm already working on the next tutorial for more advanced Plotly users on some 
 
 Looking to get involved and help with this series - or maybe collaborate on a different project? Contact me on any of the listed platforms ^_^ 
 
-~~~
-Here is a quick guide on how to navigate the current version of the rep:
-~~~
+
+_Here is a quick guide on how to navigate the current version of the rep:_
+
 There are 3 folders:
 
 1. Images: Contains images used within the post. Exception being [this image](https://github.com/Alex-Caian/Plotly_demo/blob/main/Images/starseek.png) which was custom generated for [this figure](https://github.com/Alex-Caian/Plotly_demo/blob/main/Code/Radar_script.py) to give it a feel for how plotly can be used for businesses. Feel free to use the logo without any citation or credits!
